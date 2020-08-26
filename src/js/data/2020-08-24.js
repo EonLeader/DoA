@@ -1,4 +1,4 @@
-dataSetVersion = "2019-11-26"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2020-08-24"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -337,6 +337,13 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Patty",
     img: "V97ZlUr.png",
+    opts: {
+      series: [ "XVV" ]
+    }
+  },
+{
+    name: "Tsukushi",
+    img: "SFE7GBq.png",
     opts: {
       series: [ "XVV" ]
     }
