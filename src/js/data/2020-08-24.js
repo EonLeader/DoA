@@ -114,7 +114,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Hayate",
     img: "G2zM5em.png",
     opts: {
-      series: [ "" ]
+      series: [ "DOA" ]
     }
   },
   {
