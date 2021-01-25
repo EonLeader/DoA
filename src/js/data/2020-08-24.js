@@ -410,5 +410,12 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "DOG" ]
     }
+  },
+{
+    name: "Lobelia",
+    img: "dT2jJJN.png",
+    opts: {
+      series: [ "XVV" ]
+    }
   }
 ];
